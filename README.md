@@ -11,12 +11,12 @@ individualized motor imagery EEG classification**. (Preserving two patent-sensit
 1. the adaptive time-frequency branch-selection technique;
 2. the adaptive ECG-generation technique.
 
-![Adaptive Technique](assets/adaptive.png)
-
 For a runnable public version:
 
 - branch selection is manually set to `raw` or `cwt`;
 - missing ECG supplementary features are zero tensors.
+
+![Adaptive Technique](assets/adaptive.png)
 
 ## Implemented public architecture
 
