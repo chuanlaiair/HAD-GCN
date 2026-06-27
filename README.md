@@ -4,6 +4,8 @@ This is the official implementation of **Adaptive graph convolutional neural net
 individualized motor imagery EEG classification**. (Preserving two patent-sensitive components as variables/interfaces only).
 
 
+![HAD-GCN Framework](assets/model.png)
+
 ## Patent-sensitive components not included
 
 1. the adaptive time-frequency branch-selection technique;
